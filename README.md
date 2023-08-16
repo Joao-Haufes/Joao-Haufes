@@ -10,7 +10,7 @@ I am a second-year at the Trinity College of Arts and Sciences @ Duke University
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Joao-Haufes&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Haufes&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHaufes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Haufes&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joao-Haufes&icon=2&color=1)](https://visitcount.itsvg.in)
