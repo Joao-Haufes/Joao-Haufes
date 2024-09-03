@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year at the Trinity College of Arts and Sciences @ Duke University studying Computer Science. <br>I am currently interested in Software engineering, data science, and data engineering internship positions.
+I am a third-year at the Trinity College of Arts and Sciences @ Duke University studying Computer Science. <br>I am currently interested in Software engineering, data science, and data engineering internship positions.
 
 
 ## 🌐 Socials:
