@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year at the Trinity College of Arts and Sciences @ Duke University studying Computer Science. <br>I am currently interested in Software engineering, data science, and data engineering internship positions. <br> Incoming Software Engineering Intern @ Microsoft.
+I am a fourth-year at the Trinity College of Arts and Sciences @ Duke University studying Computer Science. <br>I am currently interested in Software engineering, data science, and data engineering internship positions. <br> Incoming Software Engineering Intern @ Microsoft.
 
 
 ## 🌐 Socials:
